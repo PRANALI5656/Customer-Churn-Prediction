@@ -1,0 +1,12 @@
+-r requirements.txt
+
+matplotlib
+seaborn
+statsmodels
+lightgbm
+optuna
+mlflow
+great-expectations
+python-dotenv
+pytest
+httpx2
